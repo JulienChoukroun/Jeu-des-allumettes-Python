@@ -1,7 +1,7 @@
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée (première année) de l'Ecole Polytechnique de l'Université Côte d'Azur.
 ***
 # Jeu des allumettes
-![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/Bo%C3%AEte-Machine/machineASous2.jpg "Machine A Sous")
+![alt text](https://github.com/JulienChoukroun/Python/blob/master/Images/fenetreDeJeu.PNG "Machine A Sous")
 ## Présentation
 Ce projet a été réalisé avec une carte Arduino Uno.
 
